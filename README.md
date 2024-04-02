@@ -1,6 +1,6 @@
 # Laravel Social Media App
 
-Welcome to the Laravel Social Media App repository! This project aims to develop a social media platform using the Laravel framework.
+Welcome to the Laravel Social Media App repository! This project aims to develop a simple social media platform using the Laravel framework.
 
 ## Project Status
 
